@@ -1,0 +1,30 @@
+[
+  {
+    "SubSystemId": "54EC13F1-3F0A-4090-821D-FA41C81F86F8",
+    "Name": "Diagnostics",
+    "SubSystemWeight": 100,
+    "AssetId": "54EC13F1-3F0A-4090-821D-FA41C81F86F7"
+  },
+
+  {
+    "SubSystemId": "6D5C9651-EBAC-4874-87E9-DF5B844BD0FF",
+    "Name": "VisualInspection",
+    "SubSystemWeight": 70,
+    "AssetId": "54EC13F1-3F0A-4090-821D-FA41C81F86F7"
+  },
+
+  {
+    "SubSystemId": "96A97CD3-D49D-4750-9D0B-AE1A6C530931",
+    "Name": "EarthingCheck",
+    "SubSystemWeight": 100,
+    "AssetId": "54EC13F1-3F0A-4090-821D-FA41C81F86F7"
+  },
+
+  {
+    "SubSystemId": "DFB26651-F6BB-4D73-8B80-7C803E64C674",
+    "Name": "Others",
+    "SubSystemWeight": 60,
+    "AssetId": "54EC13F1-3F0A-4090-821D-FA41C81F86F7"
+  }
+
+]

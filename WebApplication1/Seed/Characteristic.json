@@ -1,0 +1,61 @@
+﻿[
+  {
+    "CharacteristicId": "64EC13F1-3F0A-4090-821D-FA41C81F86F7",
+    "SubSystemId": "54EC13F1-3F0A-4090-821D-FA41C81F86F8",
+    "Name": "Insulation Resistance Test Line To Earth",
+    "UsedInCalculation": 1,
+    "CalculationType": 4,
+    "Weight": 80,
+    "RelativeBaseValue": 1,
+    "Min": 0,
+    "Value1": 0.4,
+    "Value2": 0.8,
+    "Value3": 0.9,
+    "Value4": 1,
+    "Max": 9999999999,
+    "DataAgeScale": 1,
+    "DataAgeMax": 3,
+    "Unit": "MΩ",
+    "Mandatory" :  false
+  },
+
+  {
+    "CharacteristicId": "74EC13F1-3F0A-4090-821D-FA41C81F86F7",
+    "SubSystemId": "54EC13F1-3F0A-4090-821D-FA41C81F86F8",
+    "Name": "Infrared thermography",
+    "UsedInCalculation": 1,
+    "CalculationType": 1,
+    "Weight": 100,
+    "RelativeBaseValue": 0,
+    "Min": 0,
+    "Value1": 5,
+    "Value2": 11,
+    "Value3": 40,
+    "Value4": 75,
+    "Max": 150,
+    "DataAgeScale": 2,
+    "DataAgeMax": 1,
+    "Unit": "MΩ",
+    "Mandatory": false
+  },
+
+  {
+    "CharacteristicId": "84EC13F1-3F0A-4090-821D-FA41C81F86F7",
+    "SubSystemId": "54EC13F1-3F0A-4090-821D-FA41C81F86F8",
+    "Name": "Leakage current monitor test",
+    "UsedInCalculation": 1,
+    "CalculationType": 10,
+    "Weight": 50,
+    "RelativeBaseValue": 4,
+    "Min": 0,
+    "Value1": 40,
+    "Value2": 50,
+    "Value3": 60,
+    "Value4": 70,
+    "Max": 80,
+    "DataAgeScale": 5,
+    "DataAgeMax": 100,
+    "Unit": "MΩ",
+    "Mandatory": false
+  }
+]
